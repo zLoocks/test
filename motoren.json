@@ -1,0 +1,652 @@
+[
+  {
+    "pergunta": "Beschreiben Sie den Aufbau eines Universalmotors.",
+    "opcoes": [
+      "Ständer",
+      "Ständerblechpaket",
+      "Ständerwicklung",
+      "Welle",
+      "Anker (Läufer)",
+      "Ankerblech Paket",
+      "Ankerwicklung",
+      "Kupferdraht",
+      "Transformator"
+    ],
+    "resposta_correta": [
+      "Ständer",
+      "Ständerblechpaket",
+      "Ständerwicklung",
+      "Welle",
+      "Anker (Läufer)",
+      "Ankerblech Paket",
+      "Ankerwicklung"
+    ]
+  },
+  {
+    "pergunta": "Beschreiben Sie die Wirkungsweise eines Universalmotors.",
+    "opcoes": [
+      "Stromdurchflossene Leiter werden im Magnetfeld abgelenkt.",
+      "Der Kollektor arbeitet als Wechselrichter.",
+      "Wenn sich die Polarität ändert, ändern sich auch das Ständermagnetfeld und die Stromrichtung im Anker.",
+      "Dadurch bleibt die Ablenkrichtung gleich.",
+      "Der Motor dreht sich immer in die gleiche Richtung ohne Änderung.",
+      "Der Kollektor arbeitet als Transformator."
+    ],
+    "resposta_correta": [
+      "Stromdurchflossene Leiter werden im Magnetfeld abgelenkt.",
+      "Der Kollektor arbeitet als Wechselrichter.",
+      "Wenn sich die Polarität ändert, ändern sich auch das Ständermagnetfeld und die Stromrichtung im Anker.",
+      "Dadurch bleibt die Ablenkrichtung gleich."
+    ]
+  },
+  {
+    "pergunta": "Welchen Vorteil hat ein Universalmotor gegenüber einem 1-phasigen Wechselstrommotor?",
+    "opcoes": [
+      "Einfache stufenlose Drehzahlsteuerung durch Phasenanschnittsteuerung.",
+      "Hoher Wirkungsgrad bei hoher Last.",
+      "Geringer Stromverbrauch im Leerlauf."
+    ],
+    "resposta_correta": "Einfache stufenlose Drehzahlsteuerung durch Phasenanschnittsteuerung."
+  },
+  {
+    "pergunta": "Wie kann man bei einem Universalmotor die Drehrichtung ändern?",
+    "opcoes": [
+      "Durch Vertauschen der Ankerwicklung.",
+      "Durch Vertauschen der Ständerwicklung.",
+      "Durch Ändern der Ankerspannung."
+    ],
+    "resposta_correta": "Durch Vertauschen der Ankerwicklung."
+  },
+  {
+    "pergunta": "Wie kann man bei einem Universalmotor die Drehzahl steuern?",
+    "opcoes": [
+      "Phasenanschnittsteuerung",
+      "Ankerspannung",
+      "Änderung der Frequenz",
+      "Durch Polumschaltung"
+    ],
+    "resposta_correta": [
+      "Phasenanschnittsteuerung",
+      "Ankerspannung"
+    ]
+  },
+  {
+    "pergunta": "Wo werden Universalmotoren verwendet?",
+    "opcoes": [
+      "Haushaltsgeräte, z.B. Staubsauger, Mixer.",
+      "Industrielle Förderbänder.",
+      "Automobile Antriebe.",
+      "Kühlschränke."
+    ],
+    "resposta_correta": "Haushaltsgeräte, z.B. Staubsauger, Mixer."
+  },
+  {
+    "pergunta": "Beschreiben Sie den Aufbau eines Synchrongenerators.",
+    "opcoes": [
+      "Schenkelpolläufer für niedrige Drehzahl",
+      "Vollpolläufer für hohe Drehzahl",
+      "Kupferwicklung für Gleichstrom",
+      "Induktionsspule zur Stromerzeugung"
+    ],
+    "resposta_correta": [
+      "Schenkelpolläufer für niedrige Drehzahl",
+      "Vollpolläufer für hohe Drehzahl"
+    ]
+  },
+  {
+    "pergunta": "Beschreiben Sie die Wirkungsweise eines Synchrongenerators.",
+    "opcoes": [
+      "Strom fließt durch 3 um 120° versetzte Spulen",
+      "Magnetisches Drehfeld baut sich auf",
+      "Das Drehfeld induziert eine Spannung, die um 120° versetzt ist",
+      "Das Drehfeld erzeugt einen Gleichstrom"
+    ],
+    "resposta_correta": [
+      "Strom fließt durch 3 um 120° versetzte Spulen",
+      "Magnetisches Drehfeld baut sich auf",
+      "Das Drehfeld induziert eine Spannung, die um 120° versetzt ist"
+    ]
+  },
+  {
+    "pergunta": "Wie verhält sich der Synchrongenerator bei Belastung?",
+    "opcoes": [
+      "Drehzahl bleibt konstant, Spannung sinkt",
+      "Drehzahl und Spannung steigen",
+      "Drehzahl sinkt, Spannung bleibt konstant"
+    ],
+    "resposta_correta": "Drehzahl bleibt konstant, Spannung sinkt"
+  },
+  {
+    "pergunta": "Beschreiben Sie die Wirkungsweise eines Synchronmotors.",
+    "opcoes": [
+      "3 um 120° versetzte Ströme fließen durch 3 um 120° versetzte Spulen",
+      "Nordpol zieht den Südpol des Läufers",
+      "Läufer dreht sich synchron mit dem Drehfeld",
+      "Der Motor startet sofort mit maximaler Geschwindigkeit"
+    ],
+    "resposta_correta": [
+      "3 um 120° versetzte Ströme fließen durch 3 um 120° versetzte Spulen",
+      "Nordpol zieht den Südpol des Läufers",
+      "Läufer dreht sich synchron mit dem Drehfeld"
+    ]
+  },
+  {
+    "pergunta": "Wie verhält sich der Synchronmotor bei Belastung?",
+    "opcoes": [
+      "Bei Überlastung fällt er aus dem Betrieb",
+      "Bei Überlastung steigt die Drehzahl",
+      "Er passt die Drehzahl automatisch an"
+    ],
+    "resposta_correta": "Bei Überlastung fällt er aus dem Betrieb"
+  },
+  {
+    "pergunta": "Von welchen Faktoren hängt die Drehzahl eines Synchronmotors ab?",
+    "opcoes": [
+      "Polpaarzahl",
+      "Frequenzumrichter",
+      "Ständerspannung",
+      "Temperatur"
+    ],
+    "resposta_correta": [
+      "Polpaarzahl",
+      "Frequenzumrichter"
+    ]
+  },
+  {
+    "pergunta": "Welches Anlassverfahren wird für Synchronmotoren verwendet?",
+    "opcoes": [
+      "Frequenzumrichter",
+      "Stern-Dreieck-Schaltung",
+      "Softstarter"
+    ],
+    "resposta_correta": "Frequenzumrichter"
+  },
+  {
+    "pergunta": "Nennen Sie die Parallelschaltbedingungen für Synchrongeneratoren.",
+    "opcoes": [
+      "Gleiche Nennspannung",
+      "Gleiche Frequenz",
+      "Gleiche Phasenlage",
+      "Gleiche Phasenfolge"
+    ],
+    "resposta_correta": [
+      "Gleiche Nennspannung",
+      "Gleiche Frequenz",
+      "Gleiche Phasenlage",
+      "Gleiche Phasenfolge"
+    ]
+  },
+  {
+    "pergunta": "Beschreiben Sie den Aufbau eines Kurzschlussläufermotors.",
+    "opcoes": [
+      "Gehäuse",
+      "Klemmbrett",
+      "Welle",
+      "Wälzlager",
+      "Ständerwicklung",
+      "Ständerblechpaket",
+      "Kurzschlussring",
+      "Läuferblechpaket mit Läuferstäben"
+    ],
+    "resposta_correta": [
+      "Gehäuse",
+      "Klemmbrett",
+      "Welle",
+      "Wälzlager",
+      "Ständerwicklung",
+      "Ständerblechpaket",
+      "Kurzschlussring",
+      "Läuferblechpaket mit Läuferstäben"
+    ]
+  },
+  {
+    "pergunta": "Beschreiben Sie die Funktion eines Kurzschlussläufermotors.",
+    "opcoes": [
+      "3 um 120° versetzte Ströme fließen durch 3 um 120° versetzte Spulen",
+      "Magnetisches Drehfeld wird erzeugt",
+      "Das Drehfeld induziert Spannungen in der Ständer- und Läuferwicklung",
+      "Läufer erreicht nie die volle Drehzahl und bleibt hinter dem sogenannten Schlupf zurück"
+    ],
+    "resposta_correta": [
+      "3 um 120° versetzte Ströme fließen durch 3 um 120° versetzte Spulen",
+      "Magnetisches Drehfeld wird erzeugt",
+      "Das Drehfeld induziert Spannungen in der Ständer- und Läuferwicklung",
+      "Läufer erreicht nie die volle Drehzahl und bleibt hinter dem sogenannten Schlupf zurück"
+    ]
+  },
+  {
+    "pergunta": "Welche Vorteile und Nachteile hat ein Kurzschlussläufermotor?",
+    "opcoes": [
+      "Robust",
+      "Günstig",
+      "Kann unter Volllast hochfahren",
+      "Billig",
+      "Der sehr hohe Anlaufstrom ist 5 bis 6 mal größer als der Nennstrom",
+      "Niedrige Anlaufstrom",
+      "Hohe Effizienz bei niedriger Last"
+    ],
+    "resposta_correta": [
+      "Robust",
+      "Günstig",
+      "Kann unter Volllast hochfahren",
+      "Billig",
+      "Der sehr hohe Anlaufstrom ist 5 bis 6 mal größer als der Nennstrom"
+    ]
+  },
+  {
+    "pergunta": "Wie kann man die Drehrichtung beim Kurzschlussläufermotor verändern?",
+    "opcoes": [
+      "Vertauschen von 2 Außenleitern",
+      "Vertauschen der Wicklungen",
+      "Ändern der Frequenz",
+      "Verwendung eines Frequenzumrichters"
+    ],
+    "resposta_correta": "Vertauschen von 2 Außenleitern"
+  },
+  {
+    "pergunta": "Wie kann man beim Kurzschlussläufermotor die Drehzahl steuern?",
+    "opcoes": [
+      "Frequenz und Polpaarzahl",
+      "Anpassung der Spannung",
+      "Verwendung von Widerständen",
+      "Regulierung der Betriebstemperatur"
+    ],
+    "resposta_correta": "Frequenz und Polpaarzahl"
+  },
+  {
+      "pergunta": "Beschreiben Sie den Aufbau eines Kondensatormotors.",
+      "opcoes": [
+        "Gehäuse",
+        "Klemmbrett",
+        "Welle",
+        "Passfeder",
+        "Hilfswicklung",
+        "Hauptwicklung",
+        "Kurzschlussring",
+        "Permanentmagnet",
+        "Wälzlager"
+      ],
+      "resposta_correta": [
+        "Gehäuse",
+        "Klemmbrett",
+        "Welle",
+        "Passfeder",
+        "Hilfswicklung",
+        "Hauptwicklung",
+        "Kurzschlussring"
+      ]
+    },
+    {
+      "pergunta": "Beschreiben Sie die Funktion eines Kondensatormotors.",
+      "opcoes": [
+        "2 um 90° versetzte Ströme durchfließen um 90° versetzte Spulen.",
+        "Dadurch bildet sich ein magnetisches Drehfeld.",
+        "Der Kondensatormotor dreht sich von der Hilfswicklung zur Hauptwicklung.",
+        "Das Magnetfeld bleibt stationär.",
+        "Die Spannung ändert sich je nach Drehzahl."
+      ],
+      "resposta_correta": [
+        "2 um 90° versetzte Ströme durchfließen um 90° versetzte Spulen.",
+        "Dadurch bildet sich ein magnetisches Drehfeld.",
+        "Der Kondensatormotor dreht sich von der Hilfswicklung zur Hauptwicklung."
+      ]
+    },
+    {
+      "pergunta": "Wo verwendet man Kondensatormotoren?",
+      "opcoes": [
+        "Kältemaschinen",
+        "Umwälpumpen (Heizung)",
+        "Lüfter",
+        "Wärmepumpen",
+        "Höchstleistungsgeneratoren"
+      ],
+      "resposta_correta": [
+        "Kältemaschinen",
+        "Umwälpumpen (Heizung)",
+        "Lüfter"
+      ]
+    },
+    {
+      "pergunta": "Beschreiben Sie den Aufbau eines Schleifringmotors.",
+      "opcoes": [
+        "Ständerwicklung",
+        "Ständerblechpaket",
+        "Läuferwicklung",
+        "Innere Lagerdeckel",
+        "Äußere Lagerdeckel",
+        "Schleifring",
+        "Bürstenbrücke",
+        "Kurzschlussring"
+      ],
+      "resposta_correta": [
+        "Ständerwicklung",
+        "Ständerblechpaket",
+        "Läuferwicklung",
+        "Innere Lagerdeckel",
+        "Äußere Lagerdeckel",
+        "Schleifring",
+        "Bürstenbrücke"
+      ]
+    },
+    {
+      "pergunta": "Beschreiben Sie die Wirkungsweise eines Schleifringmotors.",
+      "opcoes": [
+        "3 um 120° versetzte Ströme durchfließen, um 3 120° versetzte Spulen.",
+        "Dadurch bildet sich ein magnetisches Drehfeld.",
+        "Dieses Drehfeld wandert im Kreis.",
+        "Dadurch bildet sich eine Spannung im Läufer.",
+        "Diese Spannung wird über die Bürste nach außen geführt.",
+        "Durch Zuschalten von Widerständen wird der Strom geringer, Anlaufstrom auch.",
+        "Nach dem Hochlaufen werden die Widerstände geschaltet und die Läuferwicklung kurzgeschlossen."
+      ],
+      "resposta_correta": [
+        "3 um 120° versetzte Ströme durchfließen, um 3 120° versetzte Spulen.",
+        "Dadurch bildet sich ein magnetisches Drehfeld.",
+        "Dieses Drehfeld wandert im Kreis.",
+        "Dadurch bildet sich eine Spannung im Läufer.",
+        "Diese Spannung wird über die Bürste nach außen geführt.",
+        "Durch Zuschalten von Widerständen wird der Strom geringer, Anlaufstrom auch.",
+        "Nach dem Hochlaufen werden die Widerstände geschaltet und die Läuferwicklung kurzgeschlossen."
+      ]
+    },
+    {
+      "pergunta": "Welche Vorteile hat der Schleifringmotor gegenüber dem Kurzschlussläufermotor?",
+      "opcoes": [
+        "Hohes Anlaufmoment",
+        "Niedriger Anlaufstrom",
+        "Geringe Wartungskosten",
+        "Sehr leiser Betrieb"
+      ],
+      "resposta_correta": [
+        "Hohes Anlaufmoment",
+        "Niedriger Anlaufstrom"
+      ]
+    },
+    {
+      "pergunta": "Welche Nachteile hat der Schleifringmotor?",
+      "opcoes": [
+        "Teuer",
+        "Wartungsintensiv",
+        "Geringe Effizienz",
+        "Hoher Anlaufstrom"
+      ],
+      "resposta_correta": [
+        "Teuer",
+        "Wartungsintensiv"
+      ]
+    },
+    {
+      "pergunta": "Wo wird ein Schleifringmotor verwendet?",
+      "opcoes": [
+        "Große Krananlagen",
+        "Druckmaschinen",
+        "Große Ventilatoren",
+        "Kältemaschinen",
+        "Heizungspumpen"
+      ],
+      "resposta_correta": [
+        "Große Krananlagen",
+        "Druckmaschinen",
+        "Große Ventilatoren"
+      ]
+    },
+    {
+      "pergunta": "Was macht ein Generator?",
+      "opcoes": [
+        "Wandelt mechanische Energie in elektrische Energie um.",
+        "Wandelt elektrische Energie in mechanische Energie um.",
+        "Erzeugt kinetische Energie.",
+        "Speichert elektrische Energie."
+      ],
+      "resposta_correta": [
+        "Wandelt mechanische Energie in elektrische Energie um."
+      ]
+    },
+  
+    {
+      "pergunta": "Welche Motorschutzeinrichtungen gibt es?",
+      "opcoes": [
+        "Motorschutzschalter",
+        "Motorschutzrelais",
+        "Motorvollschutz",
+        "Leistungsdioden",
+        "Ankerspannungsregler"
+      ],
+      "resposta_correta": [
+        "Motorschutzschalter",
+        "Motorschutzrelais",
+        "Motorvollschutz"
+      ]
+    },
+    {
+      "pergunta": "Beschreiben Sie den Unterschied zwischen diesen Motorschutzeinrichtungen.",
+      "opcoes": [
+        "Motorschutzschalter: Einstellbare Nennstrom, Thermische Auslöser, Elektromagnetische Auslöser, Schaltet den Motor im Hauptstromkreis aus.",
+        "Motorschutzrelais: Einstellbare Nennstrom, Thermische Auslöser, Schaltet den Motor über einen Schutz.",
+        "Motorvollschutz: Kaltleiter (PTC), Schaltet den Motor, wenn die Temperatur hoch wird.",
+        "Motorschutzschalter: Nur für kleine Lasten geeignet.",
+        "Motorschutzrelais: Benötigt keine Temperaturfühler."
+      ],
+      "resposta_correta": [
+        "Motorschutzschalter: Einstellbare Nennstrom, Thermische Auslöser, Elektromagnetische Auslöser, Schaltet den Motor im Hauptstromkreis aus.",
+        "Motorschutzrelais: Einstellbare Nennstrom, Thermische Auslöser, Schaltet den Motor über einen Schutz.",
+        "Motorvollschutz: Kaltleiter (PTC), Schaltet den Motor, wenn die Temperatur hoch wird."
+      ]
+    },
+    {
+      "pergunta": "Wie funktioniert Motorvollschutz?",
+      "opcoes": [
+        "Wenn der Motor überlastet wird, so wird die Wicklung heiß und öffnet sich der jeweilige Kontakt und schaltet den Motor ab.",
+        "Der Motor schaltet sich durch eine Zeitschaltuhr ab.",
+        "Der Motor bleibt unter Volllast konstant in Betrieb.",
+        "Die Wicklung bleibt kühl durch zusätzliche Ventilation."
+      ],
+      "resposta_correta": [
+        "Wenn der Motor überlastet wird, so wird die Wicklung heiß und öffnet sich der jeweilige Kontakt und schaltet den Motor ab."
+      ]
+    },
+    {
+      "pergunta": "Welche Betätigungsarten gibt es bei Motorschutzrelais?",
+      "opcoes": [
+        "Hand und Automatik",
+        "Manuell",
+        "Halbautomatik",
+        "Elektronisch"
+      ],
+      "resposta_correta": [
+        "Hand und Automatik",
+      
+    
+  
+   {
+      "pergunta": "Beschreiben Sie den Aufbau eines Frequenzumrichters (FU).",
+      "opcoes": [
+        "Gleichrichter",
+        "Zwischenkreis",
+        "Wechselrichter",
+        "Kondensator",
+        "Transformator"
+      ],
+      "resposta_correta": [
+        "Gleichrichter",
+        "Zwischenkreis",
+        "Wechselrichter"
+      ]
+    },
+    {
+      "pergunta": "Welche Bauteile werden bei Gleichrichter, Zwischenkreis und Wechselrichter verwendet?",
+      "opcoes": [
+        "Gleichrichter: Dioden (B6U, 3phasig oder M1U, 1phasig)",
+        "Zwischenkreis: Kondensator",
+        "Wechselrichter: Transistor oder Thyristoren",
+        "Gleichrichter: Widerstände",
+        "Wechselrichter: Transformatoren"
+      ],
+      "resposta_correta": [
+        "Gleichrichter: Dioden (B6U, 3phasig oder M1U, 1phasig)",
+        "Zwischenkreis: Kondensator",
+        "Wechselrichter: Transistor oder Thyristoren"
+      ]
+    },
+    {
+      "pergunta": "Welche physikalischen Größen ändern sich, wenn sich die Frequenz ändert?",
+      "opcoes": [
+        "Spannung",
+        "Drehzahl",
+        "Strom",
+        "Temperatur",
+        "Länge der Wicklung"
+      ],
+      "resposta_correta": [
+        "Spannung",
+        "Drehzahl",
+        "Strom"
+      ]
+    },
+    {
+      "pergunta": "Welche Fehler können beim elektrischen Motor auftreten?",
+      "opcoes": [
+        "Kurzschluss",
+        "Überlast",
+        "Phasenausfall",
+        "Wicklungsschluss",
+        "Temperaturanstieg ohne Abschaltung"
+      ],
+      "resposta_correta": [
+        "Kurzschluss",
+        "Überlast",
+        "Phasenausfall",
+        "Wicklungsschluss"
+      ]
+    },
+    {
+      "pergunta": "Warum benötigen wir Anlassverfahren?",
+      "opcoes": [
+        "Anlaufstrom zu begrenzen",
+        "Drehzahl zu erhöhen",
+        "Motortemperatur zu regulieren",
+        "Lärmminderung"
+      ],
+      "resposta_correta": "Anlaufstrom zu begrenzen"
+    },
+    {
+      "pergunta": "Ab welcher Leistung benötigen wir Anlassverfahren?",
+      "opcoes": [
+        "3phasig: ab 3 kW, 1phasig: 1.1 kW",
+        "3phasig: ab 5 kW, 1phasig: 2 kW",
+        "3phasig: ab 1 kW, 1phasig: 0.5 kW",
+        "3phasig: ab 10 kW, 1phasig: 3 kW"
+      ],
+      "resposta_correta": "3phasig: ab 3 kW, 1phasig: 1.1 kW"
+    },
+    {
+      "pergunta": "Welche Anlassverfahren haben wir?",
+      "opcoes": [
+        "Stern-Dreieck",
+        "Softstarter",
+        "Frequenzumrichter",
+        "Anlasskondensator",
+        "Thermostarter"
+      ],
+      "resposta_correta": [
+        "Stern-Dreieck",
+        "Softstarter",
+        "Frequenzumrichter",
+        "Anlasskondensator"
+      ]
+    },
+    {
+      "pergunta": "Welche 2 Kondensatormotoren gibt es?",
+      "opcoes": [
+        "Betriebskondensator",
+        "Anlasskondensator",
+        "Hochspannungskondensator",
+        "Dauerkondensator"
+      ],
+      "resposta_correta": [
+        "Betriebskondensator",
+        "Anlasskondensator"
+      ]
+    }
+  ]
+},  {
+      "pergunta": "Welche Unterschiede haben Betriebs- und Anlasskondensator?",
+      "opcoes": [
+        "Betriebskondensator eignet sich gut für längeren Betrieb, nicht unter Volllast geeignet, für kleine Leistung bis 3 kW ausgelegt.",
+        "Anlasskondensator eignet sich gut unter Volllast, große Kapazität als Betriebskondensator.",
+        "Betriebskondensator hat höhere Spannung als Anlasskondensator.",
+        "Anlasskondensator ist nur für kleine Lasten geeignet."
+      ],
+      "resposta_correta": [
+        "Betriebskondensator eignet sich gut für längeren Betrieb, nicht unter Volllast geeignet, für kleine Leistung bis 3 kW ausgelegt.",
+        "Anlasskondensator eignet sich gut unter Volllast, große Kapazität als Betriebskondensator."
+      ]
+    },
+    {
+      "pergunta": "Wie kann man einen Kondensatormotor abschalten?",
+      "opcoes": [
+        "Über ein Relais, Zeitrelais",
+        "Manuell durch Schalter",
+        "Verwendung von Thermistoren",
+        "Automatisch durch Temperaturfühler"
+      ],
+      "resposta_correta": "Über ein Relais, Zeitrelais"
+    },
+    {
+      "pergunta": "Warum kann man mit Schleifringmotor unter Volllast fahren?",
+      "opcoes": [
+        "Weil sie einen hohen Anzugsmoment haben.",
+        "Weil sie eine geringe Drehzahl haben.",
+        "Weil sie weniger Energie verbrauchen.",
+        "Weil die Wicklungen unter Spannung stehen."
+      ],
+      "resposta_correta": "Weil sie einen hohen Anzugsmoment haben."
+    },
+    {
+      "pergunta": "Von welchen Kriterien hängt die Drehzahl beim Gleichstrommotor ab?",
+      "opcoes": [
+        "Anker- und Erregerspannung",
+        "Frequenz und Polpaarzahl",
+        "Temperatur der Wicklungen",
+        "Art des Öls im Lager"
+      ],
+      "resposta_correta": "Anker- und Erregerspannung"
+    },
+    {
+      "pergunta": "Was macht ein Softstarter?",
+      "opcoes": [
+        "Anlaufstrom reduzieren",
+        "Drehzahl erhöhen",
+        "Temperatur im Motor regulieren",
+        "Lärmemissionen verringern"
+      ],
+      "resposta_correta": "Anlaufstrom reduzieren"
+    },
+    {
+      "pergunta": "Worauf muss man achten beim Anschließen eines Drehstrommotors?",
+      "opcoes": [
+        "Motornennstrom",
+        "Motorspannung",
+        "Wie ist der Motor verschaltet (Stern oder Dreieck)",
+        "Anzahl der Pole",
+        "Art des Isoliermaterials"
+      ],
+      "resposta_correta": [
+        "Motornennstrom",
+        "Motorspannung",
+        "Wie ist der Motor verschaltet (Stern oder Dreieck)"
+      ]
+    },
+    {
+      "pergunta": "Wie verhalten sich die Anlaufströme bei Stern-Dreieck?",
+      "opcoes": [
+        "Bei Stern wird der Anlaufstrom begrenzt, und im Dreieck wird der Anlaufstrom beibehalten.",
+        "Im Stern steigt der Anlaufstrom an.",
+        "Bei Dreieck wird der Anlaufstrom reduziert.",
+        "Der Anlaufstrom bleibt konstant in beiden Konfigurationen."
+      ],
+      "resposta_correta": "Bei Stern wird der Anlaufstrom begrenzt, und im Dreieck wird der Anlaufstrom beibehalten."
+    }
+  ]
+
+
